@@ -1,0 +1,13 @@
+run:
+
+Original: 18 64 56 59 49 71 29 83 39 92 89 81 
+
+
+Reversed: 81 89 92 39 83 29 71 49 59 56 64 18 
+
+
+Largest value is at index: 2
+
+Sorted: 18 29 39 49 56 59 64 71 81 83 89 92 
+
+BUILD SUCCESSFUL (total time: 1 second)
